@@ -40,7 +40,7 @@ When I’m not coding, I’m usually playing mobile games or watching anime.
 
 - **Enterprise software:** insurance modules in ASP.NET Blazor at Thurston.
 - **AI and full-stack products:** scam-SMS detection, Taglish chat, and other side projects.
-- **This portfolio:** an interactive terminal with a profile-grounded AI twin — [try it live](https://yvanterminal.vercel.app).
+- **This portfolio:** an interactive terminal with a profile-grounded AI twin — [try it live](https://ymmdev-terminal.vercel.app).
 
 ---
 
@@ -107,7 +107,7 @@ Also working with: **ASP.NET Core, Blazor, MSSQL, Neon, Canva, Miro**.
 I’m open to **full-stack, frontend, and AI engineering** roles. If you’re building something that needs both clean engineering and thoughtful design, let’s talk.
 
 - 📧 [maribbayyvan0@gmail.com](mailto:maribbayyvan0@gmail.com)
-- 🌐 [yvanterminal.vercel.app](https://yvanterminal.vercel.app)
+- 🌐 [yvanterminal.vercel.app](https://ymmdev-terminal.vercel.app)
 - 📄 [Download my résumé](https://yvanterminal.vercel.app/yvan/yvan-maribbay-resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yvan-maribbay)
 
