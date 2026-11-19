@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yvanterminal.vercel.app">
+  <a href="https://ymmdev-terminal.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Live-2ea44f?style=flat&logo=vercel&logoColor=white" alt="Live portfolio" />
   </a>
   <a href="https://github.com/Ymm-Dev">
